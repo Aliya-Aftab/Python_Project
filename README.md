@@ -62,5 +62,5 @@ This project is built using a professional "heavy-to-light" or "decoupled" archi
 ---
 
 ```bash
-git clone [Your-GitHub-Repo-URL]
-cd [Your-Project-Folder]
+git clone https://github.com/Aliya-Aftab/Python_Project.git
+cd Python_Project
