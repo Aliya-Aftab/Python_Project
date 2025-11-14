@@ -1,13 +1,9 @@
 # Ignore Python's cache
 __pycache__/
 
-# Ignore our raw and generated data
+# Ignore our raw data file
 *.csv
-*.parquet/
 
 # Ignore virtual environment folders
 .venv/
 venv/
-
-# Ignore OS-specific files
-.DS_Store
