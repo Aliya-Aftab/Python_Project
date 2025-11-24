@@ -1,501 +1,501 @@
 Violation_ID,Timestamp,Location,Violation_Type,Vehicle_Type,Severity
-1,27/10/2025 08:05,Intersection_A,speeding,car,Medium
-2,2025-10-27T08:10:00,Intersection_C,Speeding,Car,Medium
-3,2025-10-27T08:15:00,,RED LIGHT,Truck,Medium
-4,2025-10-27T08:20:00,Intersection_B,Red Light,,High
-5,2025-10-27T08:25:00,Intersection_B,Speeding,Motorcycle,Medium
-6,2025-10-27T08:06:00,Intersection_A,RED LIGHT,Car,Low
-7,2025-10-27T08:14:00,,Speeding,Bus,Medium
-8,27/10/2025 08:08,N/A,Red Light,car,Low
-9,2025-10-27T08:18:00,Intersection_C,Speeding,,Medium
-10,27/10/2025 08:10,Intersection_D,RED LIGHT,,Medium
-11,2025-10-27T08:55:00,Intersection_B,RED LIGHT,Motorcycle,High
-12,2025-10-27T08:48:00,,RED LIGHT,Truck,High
-13,2025-10-27T08:39:00,Intersection_C,Red Light,,Medium
-14,2025-10-27T09:10:00,Intersection_A,No Helmet,car,Medium
-15,2025-10-27T08:45:00,N/A,Illegal U-Turn,car,Medium
-16,2025-10-27T09:20:00,Intersection_D,RED LIGHT,,Medium
-17,27/10/2025 09:25,Intersection_C,No Helmet,,Medium
-18,2025-10-27T09:12:00,Intersection_A,speeding,Car,Medium
-19,2025-10-27T08:57:00,N/A,No Helmet,Truck,High
-20,27/10/2025 08:40,Intersection_D,speeding,Car,High
-21,2025-10-27T08:21:00,Intersection_B,No Helmet,Motorcycle,Medium
-22,2025-10-27T08:44:00,Intersection_A,Red Light,Truck,High
-23,2025-10-27T09:55:00,Intersection_B,No Helmet,Motorcycle,Medium
-24,2025-10-27T09:36:00,Intersection_D,No Helmet,Bus,Medium
-25,2025-10-27T10:05:00,Intersection_B,RED LIGHT,Truck,High
-26,2025-10-27T08:52:00,Intersection_A,Red Light,Motorcycle,High
-27,2025-10-27T09:21:00,N/A,speeding,car,Low
-28,2025-10-27T08:56:00,Intersection_D,No Helmet,,High
-29,2025-10-27T08:58:00,Intersection_A,speeding,Car,Low
-30,2025-10-27T09:30:00,Intersection_C,RED LIGHT,Car,High
-31,2025-10-27T10:04:00,N/A,No Helmet,Motorcycle,High
-32,2025-10-27T10:40:00,Intersection_A,Red Light,Truck,Medium
-33,2025-10-27T10:12:00,,Red Light,Motorcycle,Medium
-34,2025-10-27T09:08:00,Intersection_D,Speeding,Truck,Medium
-35,2025-10-27T09:10:00,Intersection_D,Illegal U-Turn,,High
-36,2025-10-27T09:48:00,N/A,RED LIGHT,Truck,Low
-37,2025-10-27T08:37:00,,RED LIGHT,Bus,Medium
-38,27/10/2025 09:16,Intersection_A,Speeding,,High
-39,2025-10-27T10:36:00,Intersection_C,speeding,car,Medium
-40,2025-10-27T09:20:00,Intersection_D,Speeding,Bus,Medium
-41,2025-10-27T10:44:00,Intersection_D,RED LIGHT,car,Medium
-42,2025-10-27T11:30:00,,Red Light,,Medium
-43,2025-10-27T10:52:00,,Speeding,Car,Medium
-44,2025-10-27T10:12:00,,Speeding,Car,Medium
-45,2025-10-27T11:00:00,Intersection_C,speeding,Bus,Medium
-46,2025-10-27T08:46:00,Intersection_C,Illegal U-Turn,,Medium
-47,2025-10-27T10:21:00,N/A,No Helmet,Motorcycle,Medium
-48,27/10/2025 12:00,N/A,RED LIGHT,Motorcycle,Low
-49,2025-10-27T10:27:00,N/A,Red Light,Truck,Medium
-50,2025-10-27T12:10:00,N/A,RED LIGHT,Car,Medium
-51,2025-10-27T12:15:00,Intersection_B,Illegal U-Turn,Car,Low
-52,2025-10-27T09:44:00,N/A,RED LIGHT,Car,Medium
-53,2025-10-27T11:32:00,Intersection_C,Red Light,Truck,Medium
-54,27/10/2025 11:36,Intersection_C,No Helmet,Car,Medium
-55,2025-10-27T09:50:00,,Red Light,Bus,Low
-56,2025-10-27T09:52:00,,Speeding,Bus,Medium
-57,2025-10-27T10:51:00,Intersection_A,RED LIGHT,Truck,High
-58,2025-10-27T12:50:00,Intersection_D,speeding,car,Medium
-59,2025-10-27T10:57:00,Intersection_B,speeding,,Low
-60,2025-10-27T09:00:00,Intersection_D,RED LIGHT,Truck,Medium
-61,2025-10-27T10:02:00,Intersection_D,Speeding,Car,Medium
-62,2025-10-27T12:08:00,,No Helmet,,Medium
-63,2025-10-27T11:09:00,Intersection_B,No Helmet,car,Medium
-64,2025-10-27T13:20:00,Intersection_C,Red Light,Motorcycle,Medium
-65,2025-10-27T12:20:00,Intersection_B,RED LIGHT,Bus,High
-66,2025-10-27T10:12:00,Intersection_D,RED LIGHT,Bus,Medium
-67,27/10/2025 12:28,Intersection_C,Red Light,car,Medium
-68,2025-10-27T10:16:00,Intersection_C,Red Light,car,High
-69,2025-10-27T12:36:00,N/A,Illegal U-Turn,car,Medium
-70,2025-10-27T11:30:00,Intersection_A,speeding,,Low
-71,2025-10-27T11:33:00,Intersection_A,speeding,Car,Medium
-72,2025-10-27T11:36:00,N/A,speeding,car,Medium
-73,2025-10-27T14:05:00,Intersection_D,Speeding,,Low
-74,2025-10-27T12:56:00,Intersection_D,Red Light,Truck,High
-75,2025-10-27T11:45:00,N/A,Illegal U-Turn,Car,Medium
-76,2025-10-27T13:04:00,Intersection_D,Red Light,car,Medium
-77,2025-10-27T10:34:00,Intersection_B,speeding,Car,Low
-78,2025-10-27T09:18:00,Intersection_D,Red Light,car,Low
-79,2025-10-27T14:35:00,N/A,Speeding,car,High
-80,2025-10-27T09:20:00,Intersection_D,RED LIGHT,Motorcycle,Low
-81,2025-10-27T10:42:00,Intersection_C,Red Light,,High
-82,2025-10-27T14:50:00,N/A,No Helmet,car,High
-83,2025-10-27T10:46:00,Intersection_D,speeding,car,Medium
-84,2025-10-27T10:48:00,Intersection_C,speeding,car,Medium
-85,2025-10-27T13:40:00,N/A,speeding,Bus,Medium
-86,2025-10-27T15:10:00,Intersection_A,speeding,,Medium
-87,2025-10-27T13:48:00,Intersection_D,No Helmet,car,Medium
-88,27/10/2025 10:56,Intersection_D,Speeding,Truck,Low
-89,2025-10-27T09:29:00,N/A,RED LIGHT,Truck,Medium
-90,2025-10-27T09:30:00,Intersection_B,No Helmet,Car,Medium
-91,2025-10-27T15:35:00,N/A,No Helmet,Bus,High
-92,2025-10-27T11:04:00,Intersection_C,Illegal U-Turn,Truck,Medium
-93,2025-10-27T15:45:00,Intersection_B,Speeding,Truck,Medium
-94,2025-10-27T15:50:00,Intersection_A,RED LIGHT,car,High
-95,2025-10-27T15:55:00,Intersection_A,Illegal U-Turn,Truck,Medium
-96,27/10/2025 14:24,Intersection_D,No Helmet,car,Low
-97,27/10/2025 09:37,Intersection_B,Red Light,Truck,Low
-98,2025-10-27T12:54:00,Intersection_C,No Helmet,Truck,Medium
-99,2025-10-27T14:36:00,Intersection_C,Red Light,Truck,Medium
-100,2025-10-27T16:20:00,,RED LIGHT,car,Medium
-101,2025-10-27T14:44:00,Intersection_D,speeding,car,Medium
-102,2025-10-27T09:42:00,Intersection_B,speeding,Truck,Medium
-103,2025-10-27T11:26:00,Intersection_D,Speeding,Bus,Low
-104,2025-10-27T11:28:00,Intersection_B,Speeding,car,High
-105,2025-10-27T13:15:00,Intersection_B,No Helmet,Bus,High
-106,2025-10-27T09:46:00,,No Helmet,Car,Low
-107,2025-10-27T09:47:00,Intersection_A,RED LIGHT,,Medium
-108,2025-10-27T15:12:00,Intersection_A,Illegal U-Turn,,Low
-109,2025-10-27T11:38:00,Intersection_B,RED LIGHT,Car,Medium
-110,2025-10-27T17:10:00,Intersection_D,No Helmet,Car,Medium
-111,2025-10-27T11:42:00,Intersection_A,RED LIGHT,,High
-112,2025-10-27T15:28:00,,No Helmet,Motorcycle,High
-113,2025-10-27T13:39:00,Intersection_C,No Helmet,Motorcycle,High
-114,2025-10-27T11:48:00,Intersection_A,Red Light,Truck,Low
-115,2025-10-27T11:50:00,Intersection_D,No Helmet,,Low
-116,2025-10-27T17:40:00,Intersection_A,speeding,Truck,Low
-117,2025-10-27T13:51:00,Intersection_C,RED LIGHT,Car,High
-118,2025-10-27T09:58:00,,RED LIGHT,Truck,Medium
-119,2025-10-27T11:58:00,Intersection_A,Red Light,,High
-120,2025-10-27T16:00:00,Intersection_C,No Helmet,Bus,High
-121,27/10/2025 10:01,Intersection_C,RED LIGHT,Truck,Medium
-122,2025-10-27T18:10:00,Intersection_B,No Helmet,Bus,High
-123,2025-10-27T16:12:00,N/A,Illegal U-Turn,,Low
-124,2025-10-27T10:04:00,N/A,Illegal U-Turn,,High
-125,2025-10-27T12:10:00,N/A,speeding,Truck,Low
-126,2025-10-27T18:30:00,Intersection_C,Illegal U-Turn,,Low
-127,2025-10-27T16:28:00,Intersection_D,Red Light,car,Low
-128,2025-10-27T12:16:00,,RED LIGHT,Bus,Medium
-129,2025-10-27T10:09:00,Intersection_A,Red Light,,Medium
-130,2025-10-27T12:20:00,Intersection_C,Red Light,,Low
-131,2025-10-27T16:44:00,Intersection_C,Illegal U-Turn,Motorcycle,Medium
-132,2025-10-27T16:48:00,Intersection_C,Illegal U-Turn,,Low
-133,2025-10-27T14:39:00,Intersection_D,RED LIGHT,Motorcycle,High
-134,2025-10-27T12:28:00,Intersection_A,Speeding,Car,Medium
-135,2025-10-27T19:15:00,Intersection_C,RED LIGHT,,Low
-136,2025-10-27T14:48:00,Intersection_A,RED LIGHT,Truck,Medium
-137,2025-10-27T14:51:00,Intersection_D,Illegal U-Turn,Motorcycle,High
-138,2025-10-27T19:30:00,Intersection_C,Illegal U-Turn,Motorcycle,Medium
-139,2025-10-27T10:19:00,Intersection_D,speeding,Motorcycle,Medium
-140,2025-10-27T17:20:00,N/A,Red Light,Motorcycle,High
-141,2025-10-27T10:21:00,Intersection_B,Illegal U-Turn,Car,Medium
-142,2025-10-27T17:28:00,Intersection_C,Red Light,car,Medium
-143,2025-10-27T10:23:00,Intersection_C,No Helmet,car,Medium
-144,2025-10-27T20:00:00,Intersection_C,Illegal U-Turn,Car,High
-145,2025-10-27T20:05:00,N/A,Illegal U-Turn,Car,Medium
-146,2025-10-27T15:18:00,Intersection_D,speeding,Motorcycle,Low
-147,2025-10-27T17:48:00,,Speeding,Bus,High
-148,2025-10-27T17:52:00,Intersection_B,Red Light,Car,Medium
-149,2025-10-27T12:58:00,N/A,Speeding,Truck,High
-150,2025-10-27T20:30:00,Intersection_A,RED LIGHT,car,Medium
-151,2025-10-27T18:04:00,N/A,speeding,Motorcycle,Medium
-152,2025-10-27T10:32:00,Intersection_A,Illegal U-Turn,Car,Low
-153,2025-10-27T15:39:00,Intersection_D,Illegal U-Turn,car,Low
-154,2025-10-27T10:34:00,Intersection_D,Red Light,Car,High
-155,2025-10-27T15:45:00,Intersection_B,No Helmet,Bus,Medium
-156,2025-10-27T13:12:00,Intersection_C,RED LIGHT,,Medium
-157,27/10/2025 10:37,Intersection_B,No Helmet,Truck,Medium
-158,2025-10-27T15:54:00,N/A,No Helmet,Motorcycle,Low
-159,2025-10-27T15:57:00,N/A,RED LIGHT,Car,High
-160,2025-10-27T18:40:00,Intersection_A,speeding,Truck,High
-161,2025-10-27T13:22:00,Intersection_C,Red Light,Motorcycle,High
-162,2025-10-27T13:24:00,Intersection_A,speeding,,Medium
-163,27/10/2025 16:09,Intersection_D,Speeding,Car,Medium
-164,2025-10-27T10:44:00,Intersection_A,No Helmet,Motorcycle,Medium
-165,2025-10-27T10:45:00,,Speeding,Truck,High
-166,2025-10-27T10:46:00,Intersection_C,RED LIGHT,Motorcycle,Medium
-167,2025-10-27T13:34:00,Intersection_A,Illegal U-Turn,Car,Low
-168,2025-10-27T13:36:00,,Speeding,Truck,Medium
-169,2025-10-27T22:05:00,Intersection_D,RED LIGHT,Motorcycle,Medium
-170,2025-10-27T10:50:00,,RED LIGHT,Truck,Medium
-171,2025-10-27T10:51:00,Intersection_D,No Helmet,Car,Low
-172,2025-10-27T22:20:00,Intersection_D,Illegal U-Turn,car,Low
-173,2025-10-27T22:25:00,N/A,No Helmet,Truck,Medium
-174,2025-10-27T10:54:00,Intersection_A,Red Light,Truck,Low
-175,2025-10-27T10:55:00,Intersection_C,Red Light,car,Low
-176,2025-10-27T10:56:00,Intersection_B,speeding,Bus,Low
-177,2025-10-27T13:54:00,N/A,speeding,Motorcycle,Medium
-178,2025-10-27T19:52:00,Intersection_A,No Helmet,Truck,Medium
-179,2025-10-27T16:57:00,Intersection_A,Illegal U-Turn,car,Medium
-180,2025-10-27T14:00:00,Intersection_D,Illegal U-Turn,car,High
-181,2025-10-27T11:01:00,Intersection_A,Illegal U-Turn,car,Medium
-182,2025-10-27T20:08:00,Intersection_A,Speeding,car,Medium
-183,2025-10-27T14:06:00,,Illegal U-Turn,Truck,Medium
-184,27/10/2025 14:08,Intersection_B,Red Light,,High
-185,27/10/2025 20:20,Intersection_D,RED LIGHT,Bus,Medium
-186,2025-10-27T20:24:00,Intersection_B,No Helmet,Car,Medium
-187,2025-10-27T20:28:00,Intersection_D,No Helmet,Car,Medium
-188,2025-10-27T23:40:00,N/A,Red Light,Motorcycle,High
-189,2025-10-27T23:45:00,Intersection_D,Speeding,Motorcycle,Medium
-190,2025-10-27T17:30:00,Intersection_B,Speeding,Motorcycle,Medium
-191,2025-10-27T11:11:00,Intersection_B,speeding,Bus,High
-192,2025-10-27T17:36:00,Intersection_B,No Helmet,Bus,Medium
-193,2025-10-27T17:39:00,Intersection_D,Speeding,Bus,Medium
-194,2025-10-27T14:28:00,Intersection_C,RED LIGHT,car,Low
-195,2025-10-27T11:15:00,N/A,Illegal U-Turn,Bus,Medium
-196,27/10/2025 17:48,,Speeding,Bus,Medium
-197,2025-10-27T17:51:00,,RED LIGHT,Car,Medium
-198,27/10/2025 14:36,Intersection_D,No Helmet,car,Medium
-199,2025-10-27T11:19:00,Intersection_D,No Helmet,car,Medium
-200,2025-10-27T18:00:00,Intersection_D,Red Light,Car,Medium
-201,2025-10-27T18:03:00,,Illegal U-Turn,Bus,Medium
-202,27/10/2025 18:06,Intersection_B,RED LIGHT,,High
-203,27/10/2025 11:23,Intersection_D,speeding,Truck,Medium
-204,2025-10-28T01:00:00,Intersection_B,Red Light,,Low
-205,2025-10-27T14:50:00,,Red Light,Motorcycle,Medium
-206,2025-10-27T18:18:00,Intersection_C,speeding,Truck,Medium
-207,2025-10-27T21:48:00,,Illegal U-Turn,Truck,Low
-208,2025-10-27T14:56:00,Intersection_D,speeding,Motorcycle,Medium
-209,2025-10-28T01:25:00,N/A,RED LIGHT,Motorcycle,Low
-210,2025-10-27T15:00:00,N/A,No Helmet,Bus,Low
-211,2025-10-28T01:35:00,N/A,speeding,,Medium
-212,27/10/2025 22:08,N/A,Illegal U-Turn,Car,Medium
-213,2025-10-28T01:45:00,Intersection_C,Illegal U-Turn,Car,Medium
-214,2025-10-27T15:08:00,Intersection_B,Red Light,Motorcycle,Medium
-215,2025-10-27T22:20:00,Intersection_D,RED LIGHT,Bus,Low
-216,2025-10-27T18:48:00,Intersection_B,Red Light,,High
-217,2025-10-27T11:37:00,,RED LIGHT,Motorcycle,Medium
-218,2025-10-27T15:16:00,Intersection_B,Red Light,Bus,Low
-219,2025-10-27T15:18:00,Intersection_A,No Helmet,Car,Low
-220,2025-10-27T15:20:00,Intersection_B,Illegal U-Turn,Truck,Medium
-221,2025-10-28T02:25:00,,Speeding,Motorcycle,Medium
-222,2025-10-27T11:42:00,Intersection_D,Illegal U-Turn,Motorcycle,Medium
-223,27/10/2025 19:09,Intersection_B,No Helmet,Motorcycle,Medium
-224,2025-10-27T19:12:00,Intersection_A,No Helmet,,High
-225,2025-10-27T23:00:00,Intersection_C,Speeding,,High
-226,2025-10-27T23:04:00,,No Helmet,car,Medium
-227,2025-10-28T02:55:00,,Speeding,Truck,Medium
-228,2025-10-27T11:48:00,Intersection_C,speeding,Truck,High
-229,2025-10-28T03:05:00,Intersection_B,Red Light,Bus,Low
-230,27/10/2025 23:20,,No Helmet,car,Medium
-231,27/10/2025 15:42,N/A,Red Light,Bus,Medium
-232,2025-10-27T11:52:00,,RED LIGHT,Motorcycle,Low
-233,2025-10-27T19:39:00,,RED LIGHT,Bus,Low
-234,2025-10-28T03:30:00,Intersection_D,Speeding,car,Medium
-235,2025-10-27T15:50:00,,Speeding,Motorcycle,Medium
-236,2025-10-27T15:52:00,Intersection_C,RED LIGHT,Bus,Medium
-237,2025-10-27T15:54:00,Intersection_C,Illegal U-Turn,Bus,High
-238,2025-10-27T23:52:00,N/A,speeding,car,Low
-239,2025-10-28T03:55:00,,Speeding,Truck,High
-240,2025-10-28T04:00:00,Intersection_C,RED LIGHT,Car,Medium
-241,2025-10-27T20:03:00,Intersection_D,RED LIGHT,Truck,High
-242,2025-10-28T00:08:00,Intersection_D,Speeding,car,Low
-243,2025-10-27T12:03:00,Intersection_A,Red Light,Bus,Medium
-244,2025-10-27T16:08:00,Intersection_D,speeding,,Medium
-245,2025-10-27T20:15:00,Intersection_A,Speeding,Motorcycle,High
-246,2025-10-28T00:24:00,Intersection_C,Illegal U-Turn,car,Medium
-247,2025-10-27T20:21:00,N/A,Speeding,Bus,Medium
-248,2025-10-27T16:16:00,Intersection_D,RED LIGHT,Bus,Medium
-249,2025-10-28T04:45:00,Intersection_D,Red Light,Bus,High
-250,2025-10-27T16:20:00,N/A,speeding,Bus,Medium
-251,2025-10-27T12:11:00,Intersection_C,Red Light,Bus,Medium
-252,2025-10-28T05:00:00,Intersection_A,Speeding,car,Medium
-253,2025-10-28T05:05:00,Intersection_B,speeding,Motorcycle,Medium
-254,2025-10-27T16:28:00,Intersection_B,Red Light,Truck,Medium
-255,2025-10-28T01:00:00,Intersection_A,No Helmet,Bus,High
-256,2025-10-27T16:32:00,,Red Light,Motorcycle,Low
-257,2025-10-27T16:34:00,Intersection_B,Speeding,Truck,Medium
-258,2025-10-27T12:18:00,Intersection_B,Illegal U-Turn,Motorcycle,Low
-259,2025-10-27T12:19:00,Intersection_C,speeding,Motorcycle,Medium
-260,2025-10-27T16:40:00,N/A,No Helmet,,Medium
-261,2025-10-27T12:21:00,,RED LIGHT,car,Medium
-262,28/10/2025 01:28,Intersection_A,Illegal U-Turn,Bus,Medium
-263,2025-10-27T12:23:00,Intersection_D,Red Light,Bus,Low
-264,2025-10-28T06:00:00,Intersection_C,Red Light,Bus,Medium
-265,2025-10-27T21:15:00,Intersection_B,Illegal U-Turn,Truck,Low
-266,2025-10-27T16:52:00,Intersection_C,Illegal U-Turn,Bus,High
-267,2025-10-28T01:48:00,,speeding,Motorcycle,High
-268,2025-10-27T21:24:00,,RED LIGHT,Truck,High
-269,2025-10-28T01:56:00,Intersection_B,Speeding,,Low
-270,2025-10-28T06:30:00,Intersection_A,Illegal U-Turn,Car,Low
-271,2025-10-27T12:31:00,N/A,Illegal U-Turn,car,Medium
-272,2025-10-27T12:32:00,Intersection_A,RED LIGHT,Bus,Low
-273,2025-10-28T06:45:00,N/A,No Helmet,Motorcycle,High
-274,2025-10-27T21:42:00,Intersection_A,Red Light,Car,Medium
-275,2025-10-28T06:55:00,Intersection_A,Speeding,car,Low
-276,2025-10-28T07:00:00,Intersection_A,Speeding,Car,Medium
-277,2025-10-27T17:14:00,Intersection_D,RED LIGHT,Bus,Medium
-278,2025-10-27T21:54:00,Intersection_D,RED LIGHT,Bus,Low
-279,2025-10-28T07:15:00,,speeding,Bus,High
-280,2025-10-27T12:40:00,Intersection_D,Red Light,Car,Medium
-281,2025-10-27T17:22:00,Intersection_B,No Helmet,,Low
-282,2025-10-27T22:06:00,N/A,Speeding,Bus,Medium
-283,2025-10-27T22:09:00,Intersection_B,Red Light,car,High
-284,2025-10-27T17:28:00,N/A,RED LIGHT,Motorcycle,High
-285,2025-10-27T17:30:00,N/A,Red Light,Motorcycle,Medium
-286,2025-10-27T17:32:00,Intersection_D,speeding,,Medium
-287,2025-10-27T12:47:00,N/A,No Helmet,,Low
-288,27/10/2025 22:24,Intersection_D,Red Light,Car,Low
-289,2025-10-27T22:27:00,N/A,Illegal U-Turn,Truck,Low
-290,2025-10-28T03:20:00,Intersection_C,Speeding,Bus,Low
-291,2025-10-28T08:15:00,,No Helmet,Truck,Medium
-292,2025-10-27T12:52:00,N/A,No Helmet,,Medium
-293,2025-10-27T22:39:00,N/A,speeding,Bus,High
-294,2025-10-28T03:36:00,N/A,Red Light,Bus,Medium
-295,2025-10-28T08:35:00,,Red Light,Bus,Medium
-296,2025-10-27T12:56:00,,RED LIGHT,Truck,High
-297,2025-10-28T08:45:00,N/A,speeding,Car,Medium
-298,27/10/2025 22:54,,speeding,Bus,High
-299,2025-10-28T08:55:00,Intersection_D,speeding,Truck,Low
-300,2025-10-28T09:00:00,Intersection_A,Speeding,Bus,Medium
-301,2025-10-28T09:05:00,Intersection_D,Speeding,,Low
-302,2025-10-27T13:02:00,N/A,No Helmet,,Medium
-303,2025-10-28T04:12:00,Intersection_A,Illegal U-Turn,Motorcycle,Medium
-304,2025-10-28T04:16:00,,RED LIGHT,Car,Medium
-305,2025-10-28T09:25:00,Intersection_B,speeding,Motorcycle,Medium
-306,2025-10-28T04:24:00,,Red Light,Bus,High
-307,2025-10-27T18:14:00,Intersection_C,RED LIGHT,Motorcycle,Medium
-308,2025-10-28T04:32:00,Intersection_A,Speeding,car,Medium
-309,2025-10-27T18:18:00,Intersection_D,speeding,Truck,High
-310,2025-10-27T13:10:00,Intersection_C,No Helmet,,High
-311,2025-10-28T09:55:00,Intersection_B,speeding,Bus,Low
-312,27/10/2025 23:36,,Illegal U-Turn,car,Medium
-313,2025-10-27T23:39:00,,Red Light,Truck,Low
-314,2025-10-27T13:14:00,Intersection_A,No Helmet,Car,Medium
-315,2025-10-28T10:15:00,Intersection_D,speeding,Motorcycle,Medium
-316,2025-10-27T13:16:00,Intersection_B,No Helmet,car,Medium
-317,2025-10-27T13:17:00,N/A,Red Light,Car,Medium
-318,2025-10-28T10:30:00,Intersection_D,RED LIGHT,Truck,Medium
-319,28/10/2025 05:16,Intersection_A,Illegal U-Turn,Car,Medium
-320,2025-10-28T10:40:00,Intersection_A,No Helmet,Truck,Medium
-321,2025-10-28T05:24:00,Intersection_C,RED LIGHT,,High
-322,2025-10-28T05:28:00,,Illegal U-Turn,car,Low
-323,2025-10-28T05:32:00,N/A,speeding,,Medium
-324,2025-10-27T18:48:00,Intersection_A,Red Light,Car,Medium
-325,2025-10-27T18:50:00,Intersection_D,Speeding,Motorcycle,High
-326,2025-10-28T00:18:00,,Illegal U-Turn,Bus,Medium
-327,28/10/2025 11:15,,No Helmet,Truck,Low
-328,2025-10-27T18:56:00,Intersection_C,Illegal U-Turn,car,Medium
-329,2025-10-28T00:27:00,,Red Light,Motorcycle,Low
-330,2025-10-28T00:30:00,Intersection_D,RED LIGHT,Bus,High
-331,2025-10-28T00:33:00,Intersection_B,speeding,Truck,High
-332,2025-10-28T00:36:00,,RED LIGHT,Motorcycle,Low
-333,2025-10-27T19:06:00,Intersection_B,Red Light,Motorcycle,Medium
-334,2025-10-27T19:08:00,Intersection_B,RED LIGHT,Truck,Medium
-335,2025-10-28T00:45:00,Intersection_C,No Helmet,Car,Medium
-336,2025-10-28T00:48:00,Intersection_A,speeding,Truck,High
-337,2025-10-28T00:51:00,N/A,RED LIGHT,,Medium
-338,2025-10-27T19:16:00,N/A,Red Light,,High
-339,2025-10-27T13:39:00,Intersection_C,RED LIGHT,Bus,Medium
-340,2025-10-28T06:40:00,Intersection_B,Red Light,Truck,Low
-341,2025-10-28T06:44:00,Intersection_B,No Helmet,Bus,Medium
-342,2025-10-28T01:06:00,Intersection_A,speeding,Motorcycle,Medium
-343,2025-10-28T01:09:00,N/A,speeding,Motorcycle,High
-344,2025-10-28T06:56:00,Intersection_B,Speeding,Bus,Low
-345,2025-10-28T01:15:00,Intersection_C,Speeding,Motorcycle,High
-346,2025-10-28T07:04:00,N/A,Speeding,Motorcycle,High
-347,2025-10-27T19:34:00,Intersection_C,speeding,,High
-348,2025-10-27T19:36:00,Intersection_A,Illegal U-Turn,car,Medium
-349,2025-10-28T13:05:00,,Red Light,,High
-350,2025-10-27T19:40:00,Intersection_C,Illegal U-Turn,Bus,Low
-351,2025-10-28T13:15:00,Intersection_D,Red Light,Motorcycle,Low
-352,2025-10-28T07:28:00,Intersection_D,Speeding,Motorcycle,High
-353,28/10/2025 13:25,Intersection_D,Illegal U-Turn,Truck,Medium
-354,2025-10-27T13:54:00,Intersection_B,Speeding,Car,High
-355,2025-10-28T07:40:00,N/A,Speeding,,Medium
-356,27/10/2025 13:56,Intersection_D,No Helmet,Motorcycle,High
-357,2025-10-28T13:45:00,Intersection_B,Speeding,,High
-358,2025-10-27T13:58:00,Intersection_A,RED LIGHT,car,High
-359,2025-10-27T19:58:00,,No Helmet,Bus,Low
-360,2025-10-28T08:00:00,,Red Light,car,Medium
-361,2025-10-28T08:04:00,Intersection_B,RED LIGHT,Bus,Medium
-362,2025-10-28T02:06:00,Intersection_D,No Helmet,car,Medium
-363,2025-10-28T02:09:00,N/A,speeding,Bus,Medium
-364,28/10/2025 08:16,Intersection_B,RED LIGHT,car,Medium
-365,2025-10-27T14:05:00,Intersection_C,Red Light,Truck,Medium
-366,2025-10-28T08:24:00,Intersection_B,Illegal U-Turn,,Medium
-367,2025-10-28T08:28:00,Intersection_D,Red Light,,High
-368,2025-10-27T20:16:00,,No Helmet,,Medium
-369,2025-10-27T20:18:00,Intersection_C,RED LIGHT,car,High
-370,2025-10-28T02:30:00,Intersection_A,Illegal U-Turn,Car,Medium
-371,2025-10-28T02:33:00,Intersection_C,No Helmet,Motorcycle,High
-372,2025-10-27T20:24:00,,Illegal U-Turn,,High
-373,2025-10-28T08:52:00,Intersection_B,No Helmet,Bus,Low
-374,2025-10-28T08:56:00,Intersection_A,RED LIGHT,Bus,Low
-375,2025-10-28T15:15:00,Intersection_D,No Helmet,,Low
-376,2025-10-28T02:48:00,Intersection_B,Speeding,Motorcycle,Medium
-377,2025-10-27T20:34:00,,No Helmet,Bus,High
-378,2025-10-28T02:54:00,Intersection_C,No Helmet,Car,Low
-379,2025-10-27T20:38:00,Intersection_C,Illegal U-Turn,Bus,Low
-380,2025-10-28T09:20:00,Intersection_A,speeding,,Medium
-381,2025-10-28T03:03:00,N/A,Illegal U-Turn,Motorcycle,Low
-382,27/10/2025 14:22,Intersection_B,RED LIGHT,car,Medium
-383,2025-10-28T15:55:00,Intersection_B,No Helmet,,Medium
-384,2025-10-27T20:48:00,Intersection_D,speeding,car,Medium
-385,2025-10-27T14:25:00,Intersection_C,No Helmet,Truck,Medium
-386,2025-10-28T16:10:00,N/A,Red Light,,Low
-387,2025-10-28T09:48:00,Intersection_D,RED LIGHT,Motorcycle,High
-388,2025-10-28T09:52:00,Intersection_A,Illegal U-Turn,,Low
-389,2025-10-28T09:56:00,Intersection_C,Red Light,Truck,Low
-390,2025-10-27T21:00:00,Intersection_D,Red Light,Motorcycle,Medium
-391,2025-10-28T10:04:00,N/A,Illegal U-Turn,Car,High
-392,2025-10-28T16:40:00,Intersection_B,Speeding,Car,Medium
-393,27/10/2025 14:33,Intersection_C,RED LIGHT,Motorcycle,Low
-394,2025-10-28T10:16:00,N/A,Red Light,car,Low
-395,2025-10-28T10:20:00,,Speeding,Truck,Medium
-396,2025-10-27T14:36:00,Intersection_D,Red Light,car,Medium
-397,2025-10-28T10:28:00,Intersection_A,Illegal U-Turn,car,Low
-398,2025-10-27T21:16:00,N/A,speeding,Car,Medium
-399,2025-10-28T03:57:00,,speeding,Car,Low
-400,2025-10-27T14:40:00,Intersection_D,Speeding,Car,Low
-401,2025-10-27T14:41:00,Intersection_C,RED LIGHT,car,High
-402,2025-10-27T14:42:00,Intersection_B,Illegal U-Turn,Car,Medium
-403,2025-10-28T17:35:00,,Red Light,Car,Medium
-404,2025-10-28T04:12:00,Intersection_A,Speeding,Truck,Low
-405,2025-10-27T21:30:00,,Illegal U-Turn,,Medium
-406,2025-10-28T11:04:00,Intersection_A,speeding,car,Medium
-407,2025-10-28T17:55:00,N/A,Illegal U-Turn,Bus,Medium
-408,2025-10-28T18:00:00,Intersection_B,No Helmet,Motorcycle,Medium
-409,2025-10-28T04:27:00,,Speeding,car,High
-410,2025-10-28T04:30:00,Intersection_B,speeding,car,Medium
-411,2025-10-28T04:33:00,Intersection_B,Red Light,Car,Medium
-412,2025-10-28T04:36:00,Intersection_C,Illegal U-Turn,,Medium
-413,2025-10-28T11:32:00,Intersection_B,Illegal U-Turn,,Low
-414,2025-10-28T11:36:00,Intersection_A,Red Light,Bus,High
-415,2025-10-27T21:50:00,Intersection_B,No Helmet,Car,High
-416,2025-10-27T21:52:00,Intersection_B,No Helmet,car,High
-417,2025-10-27T21:54:00,,RED LIGHT,,Low
-418,2025-10-28T18:50:00,Intersection_D,RED LIGHT,car,Low
-419,2025-10-27T21:58:00,Intersection_D,No Helmet,car,Low
-420,27/10/2025 15:00,,Red Light,Motorcycle,High
-421,27/10/2025 22:02,Intersection_C,speeding,Truck,Medium
-422,2025-10-28T19:10:00,,speeding,Truck,Low
-423,2025-10-28T19:15:00,N/A,Red Light,car,Medium
-424,2025-10-27T15:04:00,Intersection_C,No Helmet,Car,High
-425,2025-10-28T05:15:00,Intersection_C,No Helmet,Truck,Low
-426,2025-10-27T15:06:00,,Red Light,Car,Low
-427,2025-10-27T15:07:00,Intersection_D,No Helmet,car,Medium
-428,27/10/2025 15:08,,No Helmet,car,Low
-429,2025-10-28T12:36:00,Intersection_A,Illegal U-Turn,Car,Medium
-430,2025-10-28T12:40:00,N/A,Red Light,,High
-431,2025-10-28T05:33:00,Intersection_A,RED LIGHT,car,High
-432,2025-10-28T12:48:00,Intersection_B,Illegal U-Turn,,Medium
-433,2025-10-28T20:05:00,Intersection_A,Speeding,Car,Medium
-434,2025-10-27T22:28:00,N/A,speeding,,Medium
-435,28/10/2025 05:45,,Red Light,Car,Low
-436,27/10/2025 22:32,Intersection_A,speeding,Truck,Medium
-437,2025-10-28T13:08:00,Intersection_A,Speeding,Truck,High
-438,2025-10-28T20:30:00,Intersection_A,Illegal U-Turn,Bus,Low
-439,2025-10-28T20:35:00,N/A,Red Light,Bus,Medium
-440,2025-10-28T06:00:00,,Illegal U-Turn,Bus,High
-441,2025-10-27T15:21:00,Intersection_B,No Helmet,Truck,Low
-442,27/10/2025 22:44,Intersection_B,Illegal U-Turn,Truck,High
-443,27/10/2025 22:46,,Red Light,Bus,Medium
-444,2025-10-28T13:36:00,Intersection_A,Illegal U-Turn,car,Medium
-445,2025-10-28T06:15:00,Intersection_A,Speeding,Motorcycle,Medium
-446,2025-10-28T13:44:00,,Illegal U-Turn,Truck,Medium
-447,2025-10-27T22:54:00,Intersection_D,Red Light,Car,High
-448,2025-10-27T15:28:00,Intersection_C,speeding,Truck,Low
-449,2025-10-28T21:25:00,Intersection_B,RED LIGHT,Car,Low
-450,2025-10-27T15:30:00,N/A,RED LIGHT,,Low
-451,27/10/2025 15:31,Intersection_A,speeding,car,Low
-452,2025-10-28T21:40:00,,RED LIGHT,car,High
-453,2025-10-27T15:33:00,N/A,RED LIGHT,Truck,Medium
-454,2025-10-27T23:08:00,Intersection_B,Red Light,,Medium
-455,2025-10-28T06:45:00,N/A,Red Light,Car,Medium
-456,2025-10-27T23:12:00,,Illegal U-Turn,Motorcycle,Medium
-457,2025-10-28T22:05:00,Intersection_A,No Helmet,,Medium
-458,2025-10-28T14:32:00,Intersection_D,RED LIGHT,Bus,Medium
-459,2025-10-28T22:15:00,Intersection_B,RED LIGHT,car,Medium
-460,2025-10-28T07:00:00,Intersection_B,Illegal U-Turn,,Low
-461,2025-10-28T22:25:00,,No Helmet,,High
-462,2025-10-28T14:48:00,,speeding,,Low
-463,28/10/2025 07:09,Intersection_D,No Helmet,,Medium
-464,2025-10-27T15:44:00,Intersection_A,Illegal U-Turn,Car,High
-465,2025-10-27T23:30:00,Intersection_D,Red Light,Car,Medium
-466,2025-10-27T15:46:00,,Speeding,Motorcycle,Low
-467,2025-10-28T07:21:00,Intersection_B,No Helmet,Bus,Low
-468,2025-10-28T07:24:00,N/A,Illegal U-Turn,Motorcycle,High
-469,28/10/2025 07:27,,Speeding,Car,Medium
-470,2025-10-28T07:30:00,Intersection_D,No Helmet,Motorcycle,Medium
-471,2025-10-28T15:24:00,Intersection_D,Speeding,Bus,Low
-472,2025-10-27T23:44:00,Intersection_A,Red Light,Bus,Medium
-473,2025-10-27T23:46:00,Intersection_A,Red Light,Motorcycle,Medium
-474,2025-10-28T23:30:00,N/A,RED LIGHT,Motorcycle,Medium
-475,2025-10-28T15:40:00,Intersection_A,No Helmet,Truck,Low
-476,2025-10-28T15:44:00,Intersection_B,speeding,Car,Low
-477,2025-10-28T23:45:00,Intersection_D,RED LIGHT,Truck,Medium
-478,2025-10-27T15:58:00,Intersection_C,RED LIGHT,Truck,Low
-479,2025-10-27T15:59:00,N/A,Speeding,Bus,High
-480,2025-10-28T00:00:00,N/A,Illegal U-Turn,Bus,Medium
-481,2025-10-27T16:01:00,,RED LIGHT,Car,Medium
-482,2025-10-28T00:04:00,Intersection_A,Speeding,car,Medium
-483,2025-10-28T00:06:00,Intersection_C,RED LIGHT,Truck,Medium
-484,2025-10-28T16:16:00,Intersection_A,Red Light,Motorcycle,Medium
-485,2025-10-27T16:05:00,Intersection_C,No Helmet,,Medium
-486,2025-10-28T08:18:00,Intersection_D,speeding,,Medium
-487,2025-10-28T00:14:00,N/A,Speeding,,Medium
-488,2025-10-28T08:24:00,N/A,Red Light,car,Low
-489,2025-10-28T16:36:00,Intersection_D,Illegal U-Turn,,Medium
-490,2025-10-28T16:40:00,Intersection_D,speeding,Truck,Low
-491,2025-10-28T08:33:00,,speeding,Car,Medium
-492,2025-10-28T08:36:00,,Illegal U-Turn,,Medium
-493,2025-10-28T16:52:00,Intersection_C,RED LIGHT,,Low
-494,2025-10-28T08:42:00,,Red Light,car,Medium
-495,2025-10-28T00:30:00,Intersection_A,RED LIGHT,Bus,Low
-496,2025-10-28T08:48:00,Intersection_C,No Helmet,Truck,High
-497,2025-10-28T00:34:00,Intersection_A,Speeding,Motorcycle,High
-498,2025-10-28T00:36:00,Intersection_B,Red Light,car,Medium
-499,2025-10-29T01:35:00,,RED LIGHT,Motorcycle,Medium
-500,2025-10-28T00:40:00,Intersection_D,speeding,car,Medium
+1,2025-10-30T08:01:00,Intersection_A,Illegal U-Turn,Truck,Low
+2,27/10/2025 08:04,Intersection_B,Speeding,,High
+3,2025-10-28T08:06:00,,No Helmet,,Medium
+4,2025-10-27T08:16:00,Intersection_B,RED LIGHT,Car,Medium
+5,2025-11-01T08:10:00,Intersection_C,No Helmet,,Low
+6,2025-11-02T08:18:00,N/A,Red Light,,Medium
+7,2025-10-29T08:28:00,Intersection_C,Red Light,Motorcycle,Medium
+8,2025-10-30T08:24:00,Intersection_A,RED LIGHT,car,High
+9,01/11/2025 08:36,,No Helmet,Truck,Low
+10,2025-10-30T08:10:00,Intersection_D,Illegal U-Turn,Motorcycle,High
+11,2025-11-02T08:33:00,,Speeding,Car,Medium
+12,2025-10-27T08:24:00,,speeding,Truck,Medium
+13,2025-10-29T09:05:00,Intersection_C,No Helmet,Bus,Medium
+14,2025-10-29T08:42:00,,Illegal U-Turn,Motorcycle,Low
+15,2025-11-01T08:15:00,N/A,speeding,car,High
+16,2025-11-02T08:16:00,Intersection_C,Red Light,Motorcycle,Medium
+17,2025-10-28T08:17:00,Intersection_C,No Helmet,Truck,Medium
+18,2025-10-29T08:54:00,Intersection_A,Illegal U-Turn,Bus,Medium
+19,2025-10-30T09:16:00,N/A,RED LIGHT,Car,Medium
+20,2025-10-27T09:00:00,Intersection_D,speeding,car,Medium
+21,2025-11-02T08:21:00,Intersection_B,Red Light,Bus,Medium
+22,2025-11-02T09:50:00,,Speeding,car,Medium
+23,2025-10-29T09:55:00,Intersection_D,Red Light,Truck,Low
+24,2025-10-30T09:12:00,Intersection_D,Illegal U-Turn,Motorcycle,Medium
+25,2025-10-27T09:15:00,,Red Light,car,High
+26,2025-10-27T09:44:00,,Illegal U-Turn,Car,Medium
+27,2025-10-30T10:15:00,Intersection_C,Red Light,Bus,Medium
+28,2025-11-01T08:56:00,Intersection_D,Illegal U-Turn,Motorcycle,Medium
+29,2025-10-27T10:25:00,Intersection_B,speeding,Car,Medium
+30,2025-11-02T10:00:00,Intersection_B,Illegal U-Turn,Motorcycle,High
+31,2025-11-02T08:31:00,Intersection_B,RED LIGHT,Bus,Low
+32,2025-10-30T09:04:00,Intersection_C,Illegal U-Turn,Car,High
+33,2025-10-27T09:39:00,Intersection_A,RED LIGHT,Motorcycle,Medium
+34,2025-11-02T09:42:00,N/A,Red Light,,Medium
+35,2025-10-30T10:20:00,,Illegal U-Turn,Truck,High
+36,2025-10-30T08:36:00,Intersection_A,Illegal U-Turn,,High
+37,2025-10-27T11:05:00,Intersection_C,No Helmet,Motorcycle,Medium
+38,2025-10-29T09:16:00,N/A,speeding,car,High
+39,2025-10-30T09:18:00,Intersection_D,Red Light,Motorcycle,Medium
+40,2025-11-01T11:20:00,N/A,Red Light,Truck,Medium
+41,2025-10-27T09:22:00,Intersection_A,Illegal U-Turn,Motorcycle,Medium
+42,2025-10-27T11:30:00,Intersection_B,Red Light,,Medium
+43,2025-11-01T09:26:00,,RED LIGHT,,High
+44,01/11/2025 10:12,Intersection_C,Illegal U-Turn,Truck,Medium
+45,2025-10-28T09:30:00,Intersection_B,RED LIGHT,car,Medium
+46,2025-11-02T08:46:00,,No Helmet,,Medium
+47,2025-10-31T11:08:00,Intersection_A,RED LIGHT,,Medium
+48,2025-10-28T12:00:00,Intersection_A,RED LIGHT,Motorcycle,Medium
+49,2025-10-29T11:16:00,N/A,speeding,Bus,Medium
+50,2025-10-31T08:50:00,,RED LIGHT,Bus,Medium
+51,2025-10-29T11:24:00,Intersection_A,Speeding,Motorcycle,Low
+52,2025-11-01T11:28:00,Intersection_C,RED LIGHT,Truck,Low
+53,2025-10-31T11:32:00,Intersection_A,Illegal U-Turn,Motorcycle,Medium
+54,2025-10-30T10:42:00,,speeding,Bus,High
+55,2025-10-31T12:35:00,Intersection_A,Speeding,Motorcycle,Medium
+56,2025-10-28T08:56:00,Intersection_A,speeding,Bus,High
+57,2025-10-31T12:45:00,Intersection_C,RED LIGHT,Car,High
+58,2025-10-30T08:58:00,N/A,Red Light,Bus,Low
+59,2025-10-29T08:59:00,Intersection_C,Speeding,car,Low
+60,2025-10-30T10:00:00,,Red Light,Truck,Medium
+61,2025-10-30T09:01:00,Intersection_B,Illegal U-Turn,Car,Low
+62,2025-10-28T09:02:00,Intersection_C,No Helmet,Motorcycle,Low
+63,31/10/2025 13:15,,Speeding,Bus,High
+64,2025-10-29T10:08:00,Intersection_C,RED LIGHT,Truck,Low
+65,2025-10-31T13:25:00,,RED LIGHT,Truck,Medium
+66,2025-11-01T09:06:00,Intersection_A,RED LIGHT,Car,Medium
+67,2025-11-01T11:21:00,N/A,No Helmet,Truck,High
+68,2025-11-01T11:24:00,Intersection_D,speeding,Motorcycle,Low
+69,2025-11-01T09:09:00,N/A,Speeding,Motorcycle,Medium
+70,2025-10-29T09:10:00,Intersection_D,Illegal U-Turn,Truck,Low
+71,2025-11-02T09:11:00,,Speeding,Bus,Low
+72,2025-11-01T09:12:00,,Illegal U-Turn,Truck,Low
+73,2025-11-01T12:52:00,,Illegal U-Turn,,Medium
+74,2025-11-01T11:42:00,Intersection_B,Illegal U-Turn,Car,Medium
+75,2025-11-02T11:45:00,Intersection_C,Red Light,Truck,Low
+76,2025-10-28T13:04:00,,No Helmet,,Low
+77,2025-10-31T11:51:00,Intersection_B,No Helmet,,Low
+78,2025-10-27T10:36:00,Intersection_A,RED LIGHT,car,High
+79,2025-10-30T14:35:00,Intersection_B,Speeding,Bus,Medium
+80,2025-10-28T09:20:00,,Illegal U-Turn,Bus,Medium
+81,2025-10-31T10:42:00,,speeding,,Medium
+82,2025-10-29T13:28:00,Intersection_B,Red Light,Car,Low
+83,2025-11-01T12:09:00,Intersection_D,Red Light,car,Medium
+84,2025-10-30T15:00:00,N/A,speeding,Motorcycle,High
+85,2025-11-01T15:05:00,Intersection_D,Red Light,Truck,Medium
+86,2025-10-29T10:52:00,Intersection_C,Red Light,Motorcycle,High
+87,27/10/2025 12:21,,Speeding,Car,Medium
+88,2025-11-01T12:24:00,N/A,Red Light,,Medium
+89,2025-10-30T10:58:00,Intersection_A,Illegal U-Turn,Motorcycle,Low
+90,27/10/2025 15:30,Intersection_A,RED LIGHT,car,Medium
+91,2025-11-02T09:31:00,N/A,No Helmet,Motorcycle,High
+92,2025-11-01T11:04:00,Intersection_B,Illegal U-Turn,,Medium
+93,2025-10-31T14:12:00,N/A,Red Light,Motorcycle,Medium
+94,2025-10-31T09:34:00,,Illegal U-Turn,car,Medium
+95,2025-10-28T09:35:00,,Red Light,Bus,Medium
+96,2025-10-30T16:00:00,Intersection_C,RED LIGHT,car,High
+97,2025-10-28T14:28:00,Intersection_C,Red Light,,Medium
+98,2025-10-28T09:38:00,Intersection_B,No Helmet,Car,High
+99,2025-11-01T14:36:00,Intersection_B,Illegal U-Turn,Truck,High
+100,2025-10-31T13:00:00,Intersection_C,Illegal U-Turn,car,Medium
+101,2025-10-28T09:41:00,Intersection_C,Red Light,Bus,Medium
+102,2025-10-28T09:42:00,Intersection_C,No Helmet,Motorcycle,Medium
+103,2025-10-31T16:35:00,,Red Light,Truck,Medium
+104,2025-10-28T09:44:00,N/A,Speeding,,High
+105,2025-10-27T11:30:00,,Speeding,,Medium
+106,2025-10-27T16:50:00,,No Helmet,,Medium
+107,2025-10-29T16:55:00,Intersection_A,Illegal U-Turn,Truck,High
+108,2025-10-29T15:12:00,Intersection_D,No Helmet,Motorcycle,Medium
+109,2025-10-29T09:49:00,Intersection_D,Illegal U-Turn,car,High
+110,2025-10-29T15:20:00,Intersection_D,speeding,Motorcycle,Low
+111,2025-10-31T17:15:00,Intersection_D,speeding,Motorcycle,Medium
+112,27/10/2025 15:28,Intersection_C,No Helmet,Car,Medium
+113,2025-11-01T13:39:00,Intersection_D,Speeding,Truck,High
+114,2025-11-02T17:30:00,Intersection_C,RED LIGHT,,Low
+115,2025-10-31T17:35:00,Intersection_D,No Helmet,,Medium
+116,28/10/2025 13:48,Intersection_C,Speeding,Motorcycle,High
+117,2025-10-27T11:54:00,,speeding,Truck,High
+118,2025-10-28T11:56:00,Intersection_B,Red Light,Motorcycle,Medium
+119,2025-11-02T11:58:00,Intersection_B,speeding,,Low
+120,2025-10-31T16:00:00,Intersection_C,Illegal U-Turn,Bus,Medium
+121,2025-10-29T18:05:00,Intersection_D,Illegal U-Turn,,Medium
+122,2025-10-28T12:04:00,Intersection_B,No Helmet,Motorcycle,Medium
+123,2025-10-29T16:12:00,Intersection_C,RED LIGHT,Motorcycle,Medium
+124,2025-10-28T18:20:00,Intersection_C,No Helmet,Motorcycle,Medium
+125,2025-10-30T12:10:00,Intersection_A,speeding,Bus,Medium
+126,2025-10-27T12:12:00,,speeding,Car,Medium
+127,2025-10-27T10:07:00,Intersection_C,Illegal U-Turn,Car,Medium
+128,2025-10-30T10:08:00,Intersection_D,No Helmet,Car,High
+129,2025-10-28T18:45:00,N/A,Speeding,car,Medium
+130,29/10/2025 16:40,Intersection_D,Speeding,Car,Medium
+131,27/10/2025 16:44,Intersection_D,RED LIGHT,Car,Medium
+132,2025-11-02T12:24:00,N/A,Red Light,car,High
+133,2025-11-02T14:39:00,Intersection_D,RED LIGHT,Bus,Medium
+134,2025-11-01T16:56:00,N/A,No Helmet,Car,High
+135,2025-10-31T12:30:00,Intersection_C,Speeding,Car,High
+136,2025-10-31T14:48:00,Intersection_C,RED LIGHT,Bus,Medium
+137,2025-10-29T19:25:00,Intersection_B,Speeding,Car,High
+138,2025-10-29T14:54:00,Intersection_D,RED LIGHT,Truck,High
+139,2025-11-01T10:19:00,N/A,speeding,car,Medium
+140,2025-10-31T19:40:00,N/A,Speeding,Car,High
+141,2025-10-29T10:21:00,Intersection_B,Speeding,Truck,Medium
+142,2025-11-01T10:22:00,Intersection_A,Speeding,Truck,Low
+143,2025-10-28T15:09:00,N/A,Illegal U-Turn,,Medium
+144,2025-10-29T12:48:00,Intersection_B,Red Light,Truck,Low
+145,2025-10-27T10:25:00,Intersection_C,Speeding,,High
+146,2025-10-27T12:52:00,Intersection_C,RED LIGHT,Bus,Medium
+147,2025-11-02T20:15:00,Intersection_C,RED LIGHT,Truck,Medium
+148,2025-10-27T15:24:00,N/A,RED LIGHT,Motorcycle,Low
+149,2025-10-30T15:27:00,N/A,RED LIGHT,Motorcycle,Medium
+150,2025-10-27T18:00:00,Intersection_B,No Helmet,Truck,High
+151,2025-10-27T20:35:00,,No Helmet,Motorcycle,Medium
+152,2025-10-29T10:32:00,,Illegal U-Turn,car,Medium
+153,2025-10-29T20:45:00,N/A,speeding,Bus,Low
+154,2025-10-30T15:42:00,Intersection_B,RED LIGHT,Bus,Medium
+155,2025-10-29T18:20:00,Intersection_C,speeding,Truck,Medium
+156,2025-10-29T18:24:00,Intersection_D,speeding,Car,High
+157,2025-10-31T18:28:00,Intersection_A,speeding,Car,Medium
+158,2025-10-31T10:38:00,Intersection_C,Speeding,Bus,Medium
+159,2025-11-02T10:39:00,,Illegal U-Turn,Car,Medium
+160,2025-11-01T13:20:00,,Illegal U-Turn,Truck,Medium
+161,2025-10-28T21:25:00,Intersection_D,Illegal U-Turn,car,Low
+162,2025-10-31T16:06:00,Intersection_D,No Helmet,car,High
+163,30/10/2025 21:35,Intersection_C,speeding,car,Low
+164,2025-11-02T18:56:00,Intersection_A,No Helmet,Truck,Medium
+165,2025-10-29T13:30:00,N/A,Speeding,Bus,Medium
+166,2025-10-30T21:50:00,Intersection_D,No Helmet,Truck,Medium
+167,2025-11-02T21:55:00,Intersection_A,Illegal U-Turn,car,Medium
+168,2025-10-29T16:24:00,Intersection_C,speeding,,Low
+169,2025-10-27T19:16:00,Intersection_C,speeding,car,High
+170,2025-10-31T10:50:00,,Red Light,Motorcycle,Medium
+171,2025-11-01T22:15:00,N/A,Speeding,Bus,Medium
+172,2025-11-02T22:20:00,Intersection_B,Speeding,car,Medium
+173,2025-10-31T22:25:00,Intersection_C,RED LIGHT,Bus,Medium
+174,2025-10-29T13:48:00,Intersection_A,RED LIGHT,car,Medium
+175,2025-10-31T10:55:00,Intersection_A,Speeding,Car,Medium
+176,2025-11-02T13:52:00,Intersection_B,RED LIGHT,,High
+177,2025-10-28T19:48:00,Intersection_D,Red Light,Truck,Low
+178,2025-11-01T13:56:00,N/A,Red Light,Motorcycle,Medium
+179,29/10/2025 22:55,Intersection_C,speeding,Car,High
+180,2025-10-28T20:00:00,Intersection_D,RED LIGHT,Truck,Low
+181,2025-10-29T17:03:00,,RED LIGHT,,Low
+182,2025-10-27T11:02:00,Intersection_A,Speeding,car,Medium
+183,2025-10-31T11:03:00,Intersection_C,Red Light,Car,High
+184,30/10/2025 14:08,Intersection_D,No Helmet,Car,Low
+185,2025-11-01T14:10:00,Intersection_A,RED LIGHT,Truck,High
+186,2025-10-30T14:12:00,,Red Light,,Low
+187,2025-10-30T20:28:00,Intersection_C,RED LIGHT,Bus,Low
+188,2025-11-02T20:32:00,Intersection_D,Illegal U-Turn,Truck,Medium
+189,2025-11-01T11:09:00,Intersection_B,Illegal U-Turn,,Low
+190,2025-10-28T17:30:00,Intersection_A,Red Light,Truck,High
+191,2025-10-30T23:55:00,Intersection_B,Illegal U-Turn,Truck,Medium
+192,2025-11-01T17:36:00,Intersection_A,Speeding,Motorcycle,Medium
+193,2025-10-29T17:39:00,Intersection_A,Illegal U-Turn,,Medium
+194,29/10/2025 20:56,Intersection_C,Red Light,Car,High
+195,2025-10-27T11:15:00,N/A,RED LIGHT,Truck,High
+196,2025-10-30T17:48:00,Intersection_D,Illegal U-Turn,,High
+197,2025-11-02T14:34:00,,Illegal U-Turn,Truck,Low
+198,2025-10-31T21:12:00,Intersection_B,Illegal U-Turn,,Low
+199,2025-10-29T21:16:00,Intersection_D,No Helmet,car,Medium
+200,2025-10-30T18:00:00,Intersection_D,RED LIGHT,car,Medium
+201,2025-10-30T18:03:00,Intersection_D,Speeding,,Low
+202,2025-10-28T11:22:00,Intersection_A,RED LIGHT,Truck,High
+203,2025-10-27T21:32:00,N/A,Red Light,Bus,Medium
+204,2025-10-31T18:12:00,,Speeding,Motorcycle,High
+205,2025-10-29T21:40:00,,Speeding,Car,High
+206,2025-10-31T14:52:00,Intersection_C,RED LIGHT,,Medium
+207,2025-11-02T18:21:00,Intersection_A,Red Light,Car,Medium
+208,2025-10-29T18:24:00,Intersection_C,Illegal U-Turn,Truck,Medium
+209,2025-11-02T01:25:00,Intersection_C,speeding,,High
+210,2025-11-02T11:30:00,Intersection_D,speeding,,Medium
+211,2025-10-27T15:02:00,,RED LIGHT,Car,Medium
+212,2025-10-30T18:36:00,N/A,Speeding,,Medium
+213,2025-10-30T22:12:00,N/A,Speeding,Motorcycle,Medium
+214,2025-10-27T18:42:00,,Red Light,car,Low
+215,2025-10-28T22:20:00,Intersection_D,Red Light,Bus,Medium
+216,2025-10-27T15:12:00,,speeding,Truck,Medium
+217,2025-11-02T02:05:00,Intersection_A,Illegal U-Turn,Motorcycle,Medium
+218,2025-10-29T02:10:00,,Red Light,Car,Medium
+219,2025-10-27T15:18:00,Intersection_B,RED LIGHT,car,Low
+220,2025-10-27T19:00:00,Intersection_C,Speeding,Motorcycle,Medium
+221,2025-10-31T11:41:00,Intersection_C,Illegal U-Turn,Car,Medium
+222,2025-10-28T15:24:00,,No Helmet,Car,Medium
+223,2025-10-28T19:09:00,Intersection_B,speeding,Truck,Low
+224,2025-10-29T19:12:00,Intersection_D,Illegal U-Turn,Truck,Medium
+225,2025-10-29T23:00:00,Intersection_D,Red Light,Truck,Low
+226,2025-11-01T11:46:00,Intersection_D,speeding,Car,Medium
+227,2025-10-29T02:55:00,,Speeding,Truck,Medium
+228,2025-10-31T19:24:00,Intersection_D,RED LIGHT,Bus,Low
+229,2025-10-31T15:38:00,Intersection_D,Speeding,Bus,Medium
+230,2025-10-27T15:40:00,Intersection_D,Red Light,,Medium
+231,2025-11-02T11:51:00,,Red Light,car,Medium
+232,2025-10-28T23:28:00,,RED LIGHT,Bus,Medium
+233,2025-10-28T23:32:00,Intersection_D,Speeding,Car,Medium
+234,2025-10-31T23:36:00,Intersection_C,No Helmet,Car,High
+235,2025-11-01T03:35:00,,speeding,car,Medium
+236,2025-11-01T03:40:00,,Illegal U-Turn,Bus,Medium
+237,2025-10-27T15:54:00,Intersection_A,No Helmet,Bus,Medium
+238,2025-11-01T15:56:00,Intersection_B,Illegal U-Turn,car,Low
+239,2025-10-31T23:56:00,Intersection_B,speeding,,Low
+240,2025-10-30T00:00:00,Intersection_B,Red Light,Motorcycle,High
+241,2025-11-03T04:05:00,Intersection_A,RED LIGHT,Motorcycle,High
+242,2025-10-28T12:02:00,Intersection_C,Red Light,Motorcycle,High
+243,2025-11-03T04:15:00,N/A,Illegal U-Turn,car,Low
+244,2025-11-02T04:20:00,Intersection_B,Red Light,Motorcycle,Low
+245,2025-11-03T04:25:00,Intersection_D,Red Light,Motorcycle,Low
+246,2025-10-29T00:24:00,Intersection_B,Illegal U-Turn,car,Low
+247,2025-10-29T04:35:00,N/A,No Helmet,Bus,Medium
+248,2025-10-29T04:40:00,N/A,Red Light,car,Medium
+249,2025-10-27T16:18:00,Intersection_A,Speeding,Car,Medium
+250,2025-10-28T04:50:00,,Illegal U-Turn,,Low
+251,2025-11-02T04:55:00,Intersection_D,speeding,Car,Medium
+252,01/11/2025 20:36,,Speeding,Motorcycle,Low
+253,2025-11-02T16:26:00,N/A,RED LIGHT,,Medium
+254,2025-11-02T05:10:00,,Speeding,Truck,Medium
+255,2025-11-02T05:15:00,Intersection_A,No Helmet,Motorcycle,Low
+256,2025-11-01T20:48:00,,Illegal U-Turn,Motorcycle,Medium
+257,2025-10-29T01:08:00,Intersection_B,speeding,car,Medium
+258,2025-11-02T12:18:00,Intersection_B,Illegal U-Turn,Bus,Medium
+259,2025-11-01T16:38:00,,No Helmet,Truck,Low
+260,2025-11-01T05:40:00,,No Helmet,,Medium
+261,2025-10-31T12:21:00,Intersection_A,RED LIGHT,Motorcycle,Medium
+262,2025-10-29T12:22:00,,No Helmet,Truck,High
+263,2025-10-30T05:55:00,N/A,No Helmet,car,Medium
+264,31/10/2025 06:00,Intersection_C,RED LIGHT,Motorcycle,Medium
+265,2025-10-28T12:25:00,Intersection_C,Illegal U-Turn,Truck,High
+266,2025-10-29T06:10:00,N/A,No Helmet,Truck,High
+267,2025-10-29T12:27:00,Intersection_A,Red Light,Car,High
+268,2025-11-01T01:52:00,Intersection_C,RED LIGHT,,High
+269,30/10/2025 16:58,Intersection_A,RED LIGHT,car,Medium
+270,2025-11-02T06:30:00,,Red Light,Motorcycle,Medium
+271,2025-10-30T06:35:00,,Illegal U-Turn,Motorcycle,High
+272,2025-10-28T17:04:00,Intersection_B,No Helmet,Truck,Medium
+273,2025-10-30T06:45:00,N/A,Illegal U-Turn,Bus,Medium
+274,2025-10-31T06:50:00,Intersection_B,Speeding,Car,Medium
+275,2025-10-27T21:45:00,Intersection_B,Red Light,Motorcycle,High
+276,02/11/2025 17:12,Intersection_A,Red Light,Motorcycle,Medium
+277,2025-10-29T12:37:00,Intersection_D,speeding,Motorcycle,Low
+278,2025-10-30T02:32:00,Intersection_A,Speeding,Car,High
+279,2025-10-27T21:57:00,Intersection_D,Red Light,car,High
+280,2025-10-29T12:40:00,Intersection_A,Illegal U-Turn,Bus,High
+281,2025-10-30T07:25:00,Intersection_A,Speeding,,Medium
+282,2025-10-30T17:24:00,N/A,RED LIGHT,Car,Low
+283,2025-10-29T07:35:00,,speeding,Car,Medium
+284,2025-10-29T07:40:00,N/A,RED LIGHT,,Low
+285,2025-11-02T17:30:00,Intersection_A,Speeding,Truck,High
+286,2025-11-03T07:50:00,Intersection_B,No Helmet,Car,Low
+287,2025-10-28T07:55:00,Intersection_B,RED LIGHT,car,Medium
+288,2025-11-01T12:48:00,Intersection_C,Illegal U-Turn,Bus,High
+289,2025-10-31T12:49:00,,Red Light,Car,Medium
+290,2025-10-27T17:40:00,,RED LIGHT,Truck,High
+291,2025-11-03T03:24:00,Intersection_C,Red Light,car,High
+292,2025-10-29T22:36:00,Intersection_A,speeding,Truck,High
+293,2025-11-01T22:39:00,Intersection_B,No Helmet,car,Low
+294,2025-10-31T03:36:00,N/A,RED LIGHT,Truck,High
+295,2025-11-02T12:55:00,Intersection_D,Red Light,Truck,Medium
+296,2025-11-03T08:40:00,Intersection_D,RED LIGHT,Car,Low
+297,2025-11-01T22:51:00,Intersection_A,speeding,,Medium
+298,2025-10-30T03:52:00,Intersection_C,Illegal U-Turn,car,Medium
+299,2025-11-01T22:57:00,N/A,RED LIGHT,car,High
+300,2025-10-28T23:00:00,Intersection_A,speeding,Bus,High
+301,29/10/2025 13:01,Intersection_A,speeding,Motorcycle,Low
+302,01/11/2025 04:08,Intersection_A,speeding,Truck,Low
+303,2025-10-29T04:12:00,Intersection_D,Illegal U-Turn,car,Medium
+304,2025-11-03T04:16:00,Intersection_B,Speeding,car,Low
+305,2025-10-27T23:15:00,Intersection_B,No Helmet,Motorcycle,Low
+306,2025-10-31T18:12:00,,Illegal U-Turn,Motorcycle,Medium
+307,2025-10-27T23:21:00,N/A,RED LIGHT,Truck,Medium
+308,2025-10-30T09:40:00,N/A,Illegal U-Turn,car,Medium
+309,2025-10-29T23:27:00,Intersection_D,No Helmet,car,Medium
+310,2025-11-02T09:50:00,N/A,Red Light,Bus,High
+311,2025-10-31T18:22:00,Intersection_A,Red Light,Truck,Medium
+312,2025-11-03T04:48:00,Intersection_D,Illegal U-Turn,,Low
+313,31/10/2025 18:26,Intersection_C,Illegal U-Turn,car,Low
+314,2025-10-31T04:56:00,Intersection_A,speeding,Motorcycle,High
+315,2025-10-30T18:30:00,Intersection_C,Red Light,Bus,Medium
+316,2025-10-28T13:16:00,Intersection_D,Illegal U-Turn,Motorcycle,Medium
+317,2025-11-02T13:17:00,Intersection_B,Speeding,Motorcycle,Medium
+318,2025-10-28T18:36:00,Intersection_A,No Helmet,Car,Medium
+319,2025-10-29T18:38:00,Intersection_C,Speeding,Motorcycle,Medium
+320,2025-10-30T18:40:00,Intersection_A,Red Light,Truck,Medium
+321,2025-10-29T05:24:00,Intersection_B,speeding,Bus,Medium
+322,2025-10-29T13:22:00,,No Helmet,Truck,Medium
+323,2025-10-28T13:23:00,Intersection_B,No Helmet,Truck,Medium
+324,2025-10-29T13:24:00,Intersection_D,RED LIGHT,Motorcycle,Low
+325,2025-11-02T00:15:00,Intersection_C,Illegal U-Turn,Car,High
+326,28/10/2025 05:44,Intersection_D,speeding,,Medium
+327,2025-11-03T00:21:00,Intersection_B,speeding,Motorcycle,Medium
+328,2025-11-01T13:28:00,N/A,Illegal U-Turn,Car,Low
+329,2025-10-29T11:25:00,Intersection_D,RED LIGHT,Truck,Low
+330,2025-10-31T13:30:00,Intersection_C,RED LIGHT,Bus,Low
+331,2025-11-01T13:31:00,Intersection_B,Illegal U-Turn,Bus,Low
+332,2025-10-29T06:08:00,Intersection_B,speeding,Bus,Low
+333,2025-11-03T11:45:00,Intersection_C,No Helmet,Motorcycle,Low
+334,2025-11-03T06:16:00,Intersection_B,RED LIGHT,Bus,High
+335,2025-11-03T11:55:00,N/A,No Helmet,Motorcycle,Medium
+336,30/10/2025 06:24,Intersection_B,Speeding,Car,Medium
+337,2025-10-28T06:28:00,N/A,Red Light,Truck,Low
+338,2025-10-31T13:38:00,Intersection_B,speeding,car,High
+339,2025-11-01T13:39:00,Intersection_C,Illegal U-Turn,Motorcycle,Medium
+340,01/11/2025 01:00,Intersection_D,Illegal U-Turn,Bus,Medium
+341,2025-11-03T06:44:00,N/A,No Helmet,Motorcycle,High
+342,2025-11-02T13:42:00,Intersection_B,Red Light,Motorcycle,Low
+343,2025-10-31T01:09:00,Intersection_C,No Helmet,,Low
+344,2025-10-29T13:44:00,Intersection_B,speeding,Car,High
+345,2025-11-02T12:45:00,,Illegal U-Turn,,Medium
+346,2025-10-29T12:50:00,Intersection_D,Red Light,Truck,Medium
+347,01/11/2025 01:21,Intersection_C,Speeding,car,Medium
+348,2025-11-02T13:48:00,Intersection_A,speeding,Bus,Low
+349,2025-11-01T13:49:00,Intersection_B,Speeding,Motorcycle,Medium
+350,2025-11-01T07:20:00,Intersection_A,RED LIGHT,Car,Medium
+351,2025-11-01T19:42:00,Intersection_A,RED LIGHT,car,Medium
+352,2025-10-29T07:28:00,Intersection_A,Illegal U-Turn,Truck,High
+353,2025-10-31T07:32:00,Intersection_A,Red Light,Motorcycle,Medium
+354,2025-10-30T13:30:00,,speeding,Bus,Low
+355,2025-11-01T07:40:00,,RED LIGHT,car,Low
+356,2025-10-28T13:56:00,,No Helmet,Car,Low
+357,2025-11-01T07:48:00,Intersection_C,No Helmet,Bus,High
+358,2025-10-31T13:50:00,Intersection_D,speeding,car,Medium
+359,2025-11-03T07:56:00,Intersection_C,Red Light,Car,High
+360,2025-11-03T08:00:00,N/A,Red Light,Car,Medium
+361,2025-11-03T02:03:00,,RED LIGHT,Motorcycle,Low
+362,2025-10-31T14:10:00,,Illegal U-Turn,Car,Low
+363,2025-10-29T08:12:00,,speeding,Bus,Medium
+364,2025-11-03T08:16:00,Intersection_A,Red Light,Motorcycle,Low
+365,2025-10-28T20:10:00,Intersection_C,RED LIGHT,car,Low
+366,2025-10-31T08:24:00,Intersection_B,Illegal U-Turn,car,Low
+367,2025-11-03T02:21:00,N/A,Speeding,Car,Low
+368,2025-11-01T08:32:00,Intersection_D,RED LIGHT,car,Medium
+369,2025-11-03T02:27:00,,No Helmet,Truck,High
+370,2025-10-30T20:20:00,N/A,No Helmet,Motorcycle,Medium
+371,2025-11-01T08:44:00,Intersection_A,Red Light,Motorcycle,Medium
+372,2025-10-29T02:36:00,Intersection_D,speeding,Bus,Medium
+373,2025-11-02T14:13:00,N/A,No Helmet,Motorcycle,Low
+374,2025-11-02T14:14:00,Intersection_B,No Helmet,car,Medium
+375,2025-11-02T15:15:00,N/A,Speeding,Motorcycle,High
+376,2025-10-31T09:04:00,,Red Light,Bus,Medium
+377,2025-10-31T02:51:00,,No Helmet,car,Low
+378,2025-10-28T15:30:00,,RED LIGHT,car,Medium
+379,2025-10-30T14:19:00,Intersection_A,speeding,,High
+380,2025-11-03T15:40:00,Intersection_B,Red Light,Car,Medium
+381,2025-10-29T14:21:00,,RED LIGHT,Car,Medium
+382,2025-11-02T09:28:00,,No Helmet,car,Low
+383,2025-11-02T15:55:00,Intersection_D,RED LIGHT,Bus,Medium
+384,2025-10-28T03:12:00,N/A,No Helmet,car,Low
+385,2025-10-30T16:05:00,N/A,Red Light,,Medium
+386,2025-11-03T03:18:00,Intersection_B,No Helmet,Motorcycle,Medium
+387,2025-10-29T03:21:00,Intersection_C,Speeding,Truck,Medium
+388,2025-10-29T09:52:00,N/A,Red Light,Truck,Low
+389,2025-11-01T16:25:00,,Red Light,car,Low
+390,2025-10-31T16:30:00,,Speeding,Truck,Medium
+391,2025-11-01T21:02:00,Intersection_C,RED LIGHT,Car,High
+392,2025-10-28T14:32:00,N/A,speeding,Motorcycle,High
+393,01/11/2025 14:33,Intersection_D,RED LIGHT,,Medium
+394,2025-10-29T10:16:00,,speeding,Car,Low
+395,2025-10-30T21:10:00,,Red Light,Car,High
+396,29/10/2025 17:00,,Speeding,Car,High
+397,2025-11-02T03:51:00,Intersection_D,speeding,,Medium
+398,2025-10-29T03:54:00,Intersection_B,No Helmet,Motorcycle,Medium
+399,2025-11-01T14:39:00,Intersection_C,Red Light,car,Medium
+400,2025-10-28T14:40:00,Intersection_B,No Helmet,car,Medium
+401,2025-10-28T10:44:00,Intersection_D,Speeding,Truck,Medium
+402,2025-10-31T14:42:00,,No Helmet,Car,Medium
+403,2025-10-29T17:35:00,Intersection_B,No Helmet,Bus,High
+404,2025-10-28T04:12:00,Intersection_D,Illegal U-Turn,Car,Low
+405,2025-11-03T17:45:00,Intersection_B,Illegal U-Turn,,Medium
+406,2025-10-28T04:18:00,Intersection_B,Illegal U-Turn,Truck,High
+407,2025-10-31T04:21:00,N/A,No Helmet,Bus,High
+408,2025-10-30T11:12:00,Intersection_B,Illegal U-Turn,,Medium
+409,2025-11-02T11:16:00,N/A,Speeding,Truck,Low
+410,2025-10-29T18:10:00,Intersection_B,No Helmet,Bus,Low
+411,2025-10-30T11:24:00,,speeding,,High
+412,2025-11-03T04:36:00,Intersection_B,speeding,Motorcycle,Medium
+413,2025-11-01T04:39:00,Intersection_B,RED LIGHT,,High
+414,2025-10-30T04:42:00,Intersection_A,Speeding,,Medium
+415,2025-10-31T04:45:00,N/A,RED LIGHT,,High
+416,2025-10-30T14:56:00,Intersection_B,Illegal U-Turn,Truck,Medium
+417,2025-11-01T21:54:00,N/A,RED LIGHT,Truck,Medium
+418,2025-10-30T21:56:00,Intersection_D,Red Light,Motorcycle,Medium
+419,2025-11-01T11:56:00,Intersection_D,speeding,,Medium
+420,2025-11-02T12:00:00,Intersection_A,Red Light,Truck,Medium
+421,2025-10-30T15:01:00,Intersection_B,No Helmet,Car,Medium
+422,2025-10-31T22:04:00,N/A,No Helmet,Truck,High
+423,2025-10-31T05:09:00,Intersection_B,speeding,Car,Medium
+424,2025-11-02T19:20:00,,speeding,Truck,Medium
+425,2025-11-01T12:20:00,Intersection_D,RED LIGHT,car,Medium
+426,2025-10-31T05:18:00,Intersection_C,No Helmet,Car,Medium
+427,2025-10-29T15:07:00,Intersection_B,No Helmet,car,High
+428,2025-10-29T22:16:00,,speeding,Truck,Medium
+429,2025-10-30T15:09:00,N/A,Speeding,Car,Medium
+430,2025-11-02T15:10:00,Intersection_B,speeding,Car,Low
+431,2025-10-29T15:11:00,N/A,speeding,Bus,High
+432,2025-10-27T15:12:00,N/A,Illegal U-Turn,Bus,Medium
+433,2025-11-02T15:13:00,Intersection_D,Red Light,Car,Low
+434,2025-10-31T15:14:00,Intersection_A,RED LIGHT,Bus,Medium
+435,2025-10-29T13:00:00,,No Helmet,Motorcycle,Medium
+436,2025-10-31T13:04:00,,Speeding,Truck,High
+437,2025-11-01T05:51:00,Intersection_B,Speeding,Car,Medium
+438,2025-11-01T05:54:00,Intersection_A,Red Light,Car,Low
+439,2025-11-01T15:19:00,N/A,Speeding,Truck,Medium
+440,31/10/2025 13:20,Intersection_C,Red Light,,Medium
+441,2025-11-03T13:24:00,,Speeding,Bus,Medium
+442,2025-10-29T13:28:00,Intersection_D,RED LIGHT,car,Low
+443,2025-11-03T13:32:00,N/A,No Helmet,Motorcycle,Low
+444,2025-11-01T22:48:00,,Speeding,Motorcycle,Medium
+445,2025-10-28T13:40:00,Intersection_B,speeding,Bus,High
+446,2025-11-01T22:52:00,Intersection_C,Illegal U-Turn,Truck,Medium
+447,2025-10-30T13:48:00,Intersection_C,speeding,Truck,Medium
+448,2025-11-01T13:52:00,N/A,RED LIGHT,car,Medium
+449,03/11/2025 06:27,Intersection_A,Illegal U-Turn,Motorcycle,High
+450,2025-10-31T23:00:00,N/A,Illegal U-Turn,Truck,High
+451,2025-10-30T06:33:00,Intersection_A,Illegal U-Turn,Motorcycle,Medium
+452,03/11/2025 14:08,,Illegal U-Turn,,Low
+453,2025-10-30T15:33:00,N/A,speeding,,Medium
+454,2025-10-29T06:42:00,Intersection_C,No Helmet,Motorcycle,Medium
+455,2025-10-29T15:35:00,Intersection_C,Speeding,Motorcycle,Medium
+456,01/11/2025 22:00,,speeding,Car,Medium
+457,2025-11-02T14:28:00,Intersection_A,Red Light,,High
+458,2025-11-01T22:10:00,N/A,Red Light,car,Medium
+459,2025-11-01T06:57:00,Intersection_C,Illegal U-Turn,Car,Medium
+460,2025-11-02T14:40:00,Intersection_B,No Helmet,car,Medium
+461,2025-10-28T23:22:00,Intersection_A,RED LIGHT,car,High
+462,2025-10-30T14:48:00,Intersection_B,RED LIGHT,Motorcycle,High
+463,2025-11-02T15:43:00,N/A,RED LIGHT,car,Medium
+464,2025-10-28T22:40:00,Intersection_A,No Helmet,,Medium
+465,2025-10-28T15:45:00,Intersection_B,RED LIGHT,Motorcycle,Low
+466,2025-11-03T07:18:00,N/A,RED LIGHT,Motorcycle,Medium
+467,2025-10-28T15:08:00,Intersection_C,Illegal U-Turn,car,Low
+468,2025-10-29T15:12:00,Intersection_B,Red Light,Motorcycle,Low
+469,2025-10-28T15:49:00,N/A,No Helmet,,Low
+470,2025-11-03T23:10:00,Intersection_C,Red Light,,Medium
+471,2025-10-29T23:42:00,Intersection_C,speeding,Motorcycle,Medium
+472,2025-10-29T07:36:00,Intersection_A,Speeding,Motorcycle,Low
+473,2025-10-29T07:39:00,N/A,Red Light,car,Medium
+474,2025-11-03T23:30:00,Intersection_A,Illegal U-Turn,Motorcycle,High
+475,01/11/2025 15:40,Intersection_B,speeding,car,Low
+476,2025-11-01T07:48:00,N/A,RED LIGHT,Motorcycle,High
+477,2025-10-29T23:45:00,Intersection_B,speeding,,Low
+478,2025-10-30T23:50:00,Intersection_B,RED LIGHT,car,High
+479,2025-10-27T15:59:00,,RED LIGHT,Motorcycle,High
+480,2025-11-02T16:00:00,Intersection_B,No Helmet,,High
+481,2025-11-01T00:05:00,Intersection_A,RED LIGHT,,Medium
+482,2025-11-03T00:10:00,Intersection_C,Illegal U-Turn,Truck,Medium
+483,2025-10-29T08:09:00,N/A,Speeding,Truck,Low
+484,2025-10-28T08:12:00,,No Helmet,Bus,Medium
+485,2025-11-02T08:15:00,,No Helmet,Car,Medium
+486,2025-11-04T00:30:00,N/A,RED LIGHT,,High
+487,2025-10-29T08:21:00,Intersection_D,No Helmet,car,High
+488,2025-10-31T16:32:00,,No Helmet,Motorcycle,Medium
+489,2025-10-30T16:09:00,,No Helmet,car,Medium
+490,2025-10-29T08:30:00,Intersection_D,Illegal U-Turn,,High
+491,2025-11-03T00:55:00,,RED LIGHT,Motorcycle,High
+492,29/10/2025 00:24,Intersection_C,Illegal U-Turn,,Medium
+493,2025-11-03T16:52:00,Intersection_C,Illegal U-Turn,,Low
+494,2025-11-01T16:56:00,,RED LIGHT,Car,High
+495,2025-11-02T16:15:00,Intersection_D,No Helmet,,High
+496,2025-10-28T08:48:00,Intersection_A,No Helmet,Car,Low
+497,2025-11-02T08:51:00,Intersection_B,Red Light,car,Low
+498,2025-11-03T17:12:00,Intersection_C,RED LIGHT,Car,High
+499,2025-11-03T08:57:00,Intersection_A,Speeding,Truck,Low
+500,2025-11-02T00:40:00,N/A,No Helmet,Motorcycle,Medium
